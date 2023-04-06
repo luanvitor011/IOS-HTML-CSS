@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+h1 {
+    background-color: darkgreen;
+    border-style: dashed;
+    border-color: rgb(9, 196, 49);
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+    border-radius: 100px;
+    border-spacing: 30;
+}
+
+figure {
+    text-align: center;
+    border-color: darkgreen;
+    border: solid 5px green;
+}
+
+figcaption {
+    font-size: 10px;
+    color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+}
