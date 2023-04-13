@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+h1{
+    color: deeppink;
+}
+
+header{
+    background-color: aqua;
+    font-size: 20px;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+}   
+nav{
+    text-align: center;
+    background-color: rgb(111, 0, 255);
+ 
+}
+nav a{
+    display: inline-block;
+    padding: 2rem;
+    text-decoration: none;
+    color: whitesmoke;
+}
+nav a:hover{
+    background-color: rgb(16, 15, 77);
+    color: blueviolet;
+    transition:1s;
+
+
+}

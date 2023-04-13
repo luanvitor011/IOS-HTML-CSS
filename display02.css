@@ -1,0 +1,19 @@
+p {
+    color: fuchsia;
+}
+
+p.atv-1 {
+    display: none;
+}
+
+p.atv-2 {
+    display: inline;
+}
+
+p.atv-3 {
+    display: block;
+}
+
+p.atv-4 {
+    display: inline-block;
+}

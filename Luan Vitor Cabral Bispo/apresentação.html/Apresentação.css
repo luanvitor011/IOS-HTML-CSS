@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+}   
+nav{
+    text-align: center;
+    background-color: rgb(111, 0, 255);
+ 
+}
+nav a{
+    display: inline-block;
+    padding: 2rem;
+    text-decoration: none;
+    color: whitesmoke;
+}
+nav a:hover{
+    background-color: rgb(16, 15, 77);
+    color: blueviolet;
+    transition:1s;
+
+
+}
+.fixedrodape{
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 10px;
+}
+p{
+    background-color: rgb(170, 159, 1);
+    font-size: 20px;
+    color: black;
+}

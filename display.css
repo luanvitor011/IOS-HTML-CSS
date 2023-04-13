@@ -1,0 +1,12 @@
+.div1{
+    height: 200px;
+    width: 200px;
+    background-color: cyan;
+    display: inline-block;
+}
+.div2{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+}
